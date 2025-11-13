@@ -1,0 +1,9 @@
+DISCORD_CONFIGS='[
+  {
+    "url": "https://discord.com/api/webhooks/xxxxxxxx",
+    "role_id": "00000000"
+  }
+]'
+
+MAGNITUDE_THRESHOLD=5.0
+POLL_INTERVAL_SECONDS=60
